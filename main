@@ -1,0 +1,2 @@
+Add-Type -AssemblyName PresentationCore,PresentationFramework
+$Result = [System.Windows.MessageBox]::Show('Yo dont run random stuff in powershell, it wont "give you free games", "give free capcut pro" or anything like that. its gonna hack you. i made this to teach people not to but other ones are actually scams and not like this. if you have ran stuff like this before, change all passwords and reinstall windows. saved ur pc :D','Woah!',0,48)
